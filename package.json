@@ -1,0 +1,41 @@
+{
+  "name": "namstereact",
+  "version": "1.0.0",
+  "description": "this is namaste react by Tejas Tupe",
+  "main": "App.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/namastedev/namasteReact.git)"
+  },
+  "keywords": [
+    "React",
+    "namaste",
+    "react"
+  ],
+  "author": "Tejas Tupe",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
