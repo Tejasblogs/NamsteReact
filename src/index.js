@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-
+const TITE_TEXT = '  Namaste React using jsx🚀';
 
 // jsx (transpiled before it reaches the jsx ) - parcel - Babel
 
@@ -8,7 +8,7 @@ import ReactDOM from "react-dom/client";
 
 const Title = () =>(
     <h1 className="head" tabIndex="5">
-        Namaste React using jsx🚀
+        {TITLE_TEXT}
     </h1>
 );
 
